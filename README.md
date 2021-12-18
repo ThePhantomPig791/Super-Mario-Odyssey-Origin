@@ -4,7 +4,7 @@ A datapack that brings Cappy from Super Mario Odyssey into Minecraft using the O
 
 
 **This origin is fine to use in multiplayer, as long as only one person has this origin. It will severely break if two or more people have this origin on the same server.** In a later update, a system will be in place to ensure there can only be one SMO origin per world.
-\
+
 
 **Cappy**\
 Cappy, the (sentient) hat on your head, allows you to do incredible things. For example, you can throw Cappy with Primary key, and keep him moving forwards by holding it down. If Cappy hits an entity, you'll capture the entity (see power below). While Cappy is in the air, you can jump on him to perform a double jump. You can also call Cappy back to your location with Secondary key. However, Cappy can't be left out forever, so after 15 seconds of being out he will return to you.\
