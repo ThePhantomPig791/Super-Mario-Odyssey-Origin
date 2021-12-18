@@ -1,7 +1,7 @@
 # Super-Mario-Odyssey-Origin
 A datapack that brings Cappy from Super Mario Odyssey into Minecraft using the Origins mod!\
 **For 1.18.1 Fabric**
-\
+
 
 **This origin is fine to use in multiplayer, as long as only one person has this origin. It will severely break if two or more people have this origin on the same server.** In a later update, a system will be in place to ensure there can only be one SMO origin per world.
 \
