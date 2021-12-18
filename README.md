@@ -1,19 +1,19 @@
-# Super-Mario-Odyssey-Origin
-A datapack that brings Cappy from Super Mario Odyssey into Minecraft using the Origins mod!
-**For 1.18.1 Fabric**
+# Super-Mario-Odyssey-Origin\
+A datapack that brings Cappy from Super Mario Odyssey into Minecraft using the Origins mod!\
+**For 1.18.1 Fabric**\
 
 
 
 **Cappy**\
-Cappy, the (sentient) hat on your head, allows you to do incredible things. For example, you can throw Cappy with Primary key, and keep him moving forwards by holding it down. If Cappy hits an entity, you'll capture the entity (see power below). While Cappy is in the air, you can jump on him to perform a double jump. You can also call Cappy back to your location with Secondary key. However, Cappy can't be left out forever, so after 15 seconds of being out he will return to you.
+Cappy, the (sentient) hat on your head, allows you to do incredible things. For example, you can throw Cappy with Primary key, and keep him moving forwards by holding it down. If Cappy hits an entity, you'll capture the entity (see power below). While Cappy is in the air, you can jump on him to perform a double jump. You can also call Cappy back to your location with Secondary key. However, Cappy can't be left out forever, so after 15 seconds of being out he will return to you.\
 **Capture**\
-When Cappy hits an entity, you'll capture it. Capturing an entity will pull you towards it, then you'll be able to control it! In captures, you cannot eat, however some captures give special effects, like flying, breathing underwater, inflicting poison on hit, firing fireballs, or shooting arrows! To active any of these active capture effects, use Save Toolbar Activator. To exit a capture, use Secondary key. (The only uncapturable entity is the Ender Dragon, that will change soon once I fix some bugs)
+When Cappy hits an entity, you'll capture it. Capturing an entity will pull you towards it, then you'll be able to control it! In captures, you cannot eat, however some captures give special effects, like flying, breathing underwater, inflicting poison on hit, firing fireballs, or shooting arrows! To active any of these active capture effects, use Save Toolbar Activator. To exit a capture, use Secondary key. (The only uncapturable entity is the Ender Dragon, that will change soon once I fix some bugs)\
 **Pylon**\
-There's one other thing that Cappy can capture: Pylons. Pylons are pretty much just redstone wires. To capture a Pylon, throw Cappy on to a redstone torch, and you'll capture a little yellow energy ball. You'll only be able to move on Pylons/redstone wire, but you'll move extremely fast. Like other captures, uncapture a Pylon with Secondary key.
+There's one other thing that Cappy can capture: Pylons. Pylons are pretty much just redstone wires. To capture a Pylon, throw Cappy on to a redstone torch, and you'll capture a little yellow energy ball. You'll only be able to move on Pylons/redstone wire, but you'll move extremely fast. Like other captures, uncapture a Pylon with Secondary key.\
 **Color**\
-You can right-click with a dye in hand to dye Cappy that color, although this will use the dye.
+You can right-click with a dye in hand to dye Cappy that color, although this will use the dye.\
 **Armor**\
-You cannot wear _any_ armor (besides cappy).
+You cannot wear _any_ armor (besides cappy).\
 \
 \
 \
