@@ -23,7 +23,7 @@ Known bugs: \
 -Too Many Origins can cause some issues, thank you to radio#4553 for finding this!\
 -This doesn't work on Aternos servers, thank you Bengui#6043 for helping me find this!\
 -The Spider (climbing) and Strider (lava walking) powers don't work due to a bug in origins.\
--Capturing a Ravager causes you to take a small bit of damage.
+-Capturing a Ravager causes you to take a small bit of damage, thank you to ItsAMatterOfTime#2801 for finding this!
 
 
 
